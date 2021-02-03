@@ -1,5 +1,7 @@
 # ToyDroneAssessment
-Version 1.0
+## Version 
+1.0
+## Description
 This software project, written using JavaScript, HTML and CSS simulates a toy drone on 10 x 10 square virtual surface. 
 The user can issue the drone commands to move it around the surface. The drone will ignore any commands that direct it further than the boundary around the surface. 
 
