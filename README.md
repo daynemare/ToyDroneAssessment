@@ -1,4 +1,5 @@
 # ToyDroneAssessment
+Version 1.0
 This software project, written using JavaScript, HTML and CSS simulates a toy drone on 10 x 10 square virtual surface. 
 The user can issue the drone commands to move it around the surface. The drone will ignore any commands that direct it further than the boundary around the surface. 
 
@@ -9,6 +10,14 @@ graphic components but because I am not fully experienced in the language I met 
 
 I could not develop the project to a state I desired in the time frame due to choosing the wrong approach, 
 however I understand the errors I made and identified an area of programming that
-I need to allocate more time too. Post-assessment I will continue to refine this project to a state I am satsified with that meets all requirements. 
+I need to allocate more time too. Post-assessment I will produce further versions of this project until it is in a state I am satsified with that meets all requirements. 
 
 ## Installation
+
+1 - Use the following link to download the source code for the project https://github.com/daynemare/ToyDroneAssessment/archive/main.zip
+2 - Unzip the "ToyDroneAssessment-main.Zip" folder.
+3 - Click on the extracted folder and follow this folder path "ToyDroneSimAssessment">"src" > then open the "index.html" file in your browser. No IDE is required as I developed       the solution as a static web page. 
+
+##Author 
+Dayne Mare`
+Email: daynemare95@gmail.com
