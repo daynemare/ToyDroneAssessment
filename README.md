@@ -14,7 +14,7 @@ I need to allocate more time too. Post-assessment I will produce further version
 
 ## Installation
 
-- Use the following link to download the source code for the project https://github.com/daynemare/ToyDroneAssessment/archive/main.zip
+- Use the following link to download the source code for the project: https://github.com/daynemare/ToyDroneAssessment/archive/main.zip
 - Unzip the "ToyDroneAssessment-main.Zip" folder.
 - Click on the extracted folder and follow this folder path "ToyDroneSimAssessment">"src" > then open the "index.html" file in your browser. No IDE is required as I developed       the solution as a static web page. 
 
